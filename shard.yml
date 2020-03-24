@@ -1,0 +1,13 @@
+name: crmacdbg
+version: 0.1.0
+
+authors:
+  - Sergey Kuznetsov <sergey@iterudit.com>
+
+targets:
+  crmacdbg:
+    main: src/crmacdbg.cr
+
+crystal: 0.31.1
+
+license: MIT
